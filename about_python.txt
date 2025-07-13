@@ -1,0 +1,167 @@
+python:python is the high level, interpreted, interactive,
+object oriented prgraming language. it has invented 
+by geodio van rossum and developed by python software foundation in the year of 1991. 
+the name python was came from bbc channel in the channel
+there is the program python curcus it came from there.
+
+Applications:
+used in embended systems.
+machine learning.
+deep learning.
+data scientist.
+data analysis.
+data engineering.
+nlp.
+web development.
+data visualization.etc.,
+
+advantages:
+pyton is easy to learn.
+the syntax is very simple.
+it is free and open source.
+it is high level language.
+it is integrated and portable language.
+it is dynamically typed language.
+
+disadvantages:
+it is slow.
+runtime errors.
+week at mobile computation.
+
+data types: the type of data that the variable holds is 
+known as data type.
+for example: a=10 ("so it is integer datatype")
+
+datatypes:they are five types of datatypes 
+1)numeric datatype
+2)sequence datatype
+3)set 
+4)dictinary
+5)boolean
+
+1)Numeric datatype:
+   i)integer: having no decimal point
+   ii)float: having decimal point
+   iii)complex:real part(perfect fruit) + imaginary part(fruit but perticularly we can include just like some confusing)
+2)sequence datatype:
+   i)string
+   ii)list
+   iii)tuple
+string:The collection of characters enclosed within single quotes,or double quotes,thrible quotes.
+ string is it immutable, 
+ single quotes will not override(') so that time we use double quotes
+ thrible quotes used to override('') quotes
+ string methods:
+ i)startswith():it returns true if string starts with the given letter. var.startswith("a")
+ ii)endswith():it return true if string ends with the given string var.endswith("..")
+ iii)find():it return index where the letter located in the index
+ iv)count():it return count of the letter number times reapeated
+ v)repeat():
+ vi)isalpha():if returns true if the string contains only alphabets
+ vii)isalnum():it returns true if the string contains both alphabets and digits
+ viii)isnum():it ruturns true if the string contains numbers
+ ix)upper():it converts lower case stirng to upper case
+ x)lower():it converts upper case stirng to lower case
+ xi)strip():it ignores the spaces both sides of the stirngs
+ xii)lstrip():it ignores the spaces in the left side
+ xiii)rstrip():it ignores the spaces in the right side of the string
+
+list:array the collection of elements of same homogeneous with unique name is known as array
+list the collection of different types of data elements is knowns as list
+list is mutable
+list defined with square brackets
+
+list methods:
+append():by using appends() we can add elements at the end of the list
+        ->if you want we add mutiple elemets then you can send in the form of list,tuple,dict,tupe.
+insert(): we can add elements at the perticualar index
+extend(): we can add multiple elements at end end of the list individually
+index(): it return index of that elements
+copy():it will copy elements from one list to another list but memory 
+clear():it return the empty string
+remove():it will remove spacific elememt by the passing the element inside the remove methods
+pop():it will remove the element by the passing the index on the methods
+count():number of time the the element reapeated
+
+tuple:same as list.
+but tuple is immutable.
+tuple methods:
+index():
+count():
+
+dictinary:it is nothing but key value pairs.
+keys must be unique and values it allow duplicates
+it is mutable
+it is defined with opening and closing brases
+index is not allowed
+slicing is not allowed
+order is not preserved
+
+dictinary methods:
+keys():
+values():
+items():
+update():
+copy():
+clear():
+get():
+
+set: it is defined with set constructor
+it is defined with brackets
+order is not preserved
+slicing is not allowed
+duplicates are not allowed
+
+boolean:returns true or false
+
+control statements:
+1)decision making statements or conditional statements
+2)looping statements or iterative statements
+3)jumping statements or transfer statements
+1)decision making statemens or conditonal statements
+i)simple if statements
+ii)if-else statements 
+iii)if elif esle statements
+iv)short hand if statements
+v)short hand if-else statements
+vi)nested if
+2)iterative statements or looping statements
+i)for looping
+ii)while looping
+3)jumping statements or transfer statements
+i)break
+ii)continue
+iii)pass
+1)simple if:
+if the given condition is currect then if block statements will be executed
+else free statements will be executed
+ii)if-else:
+if the given conditon is currect then if block statements will 
+be executed else else block statements will be executed
+iii)if-elif-else:
+if the given condition is correct then if block statements will be 
+executed else elif block statements will be executed else 
+iv)short hand if:writing if statement in single line
+
+loop statements:
+for loop:if you know number of iterations then you go for for loop
+while loop:if you dont know no.of iterations then you go for while loop
+
+jumping statements or transfer statements:
+break: if the given condition is true then it terminates the loop
+contionue: if the given condition is true then if skips the present statement and moves the another statements
+pass: it just excapes the present statements
+
+variable: a variable is like continer it stores data
+identifier is a name given datavalue 
+it may be variable, function, class etc.,
+rules:
+it contains alphabets, digits, underscore.
+it cannot starts with digits and special symbols
+white spaces are not allowed
+keywors or reserved words cannot be used as variable names
+variable are case sensitive
+  
+they are 35 keywords in python:
+keywords or reserved words: some words are reserved to represent some meaning 
+is known as reserved words or keywords
